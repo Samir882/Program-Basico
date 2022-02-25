@@ -1,0 +1,3 @@
+# Program-Basico
+Que tanto hemos organizado nuestro tiempo...
+Pues este programa tiene la finalidad de conocer un poco como estamos llevando nuestras vidas.
